@@ -155,4 +155,4 @@ Yash Dhanawate
 Data Scientist | Chemoinformatics & Machine Learning  
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
-- 💻 GitHub: https://github.com/cryptoguy24  
+- 💻 GitHub: https://github.com/Yash-Dhanawate
